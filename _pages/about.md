@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rui Song - academic webpage"
+#title: "Rui Song - academic webpage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,7 @@ I am currently a Ph.D. student at Chang'an University, under the supervision of 
 
 ## Work Experience
 - **2016.08-2016.11**: Customer Manager at Yutong Bus
-- **2016.11-2023.05**: Information Engineer at Insightful Vehicle
+- **2016.11-2023.05**: Information Engineer at HuiBus
 
 ## Publications
 1. Li Bin, Jin Haoning, **Song Rui**, et al. "A Method for Estimating the Load of Heavy Trucks Based on Vehicle Network Big Data." *Journal of Beijing Institute of Technology*, 2024, 44(7): 712-721. [DOI:10.15918/j.tbit1001-0645.2024.054](https://doi.org/10.15918/j.tbit1001-0645.2024.054).

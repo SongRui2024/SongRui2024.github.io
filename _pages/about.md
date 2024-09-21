@@ -48,5 +48,23 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
+**Education**
+------
+## Education Background
+
+- **Bachelor's Degree**
+  - **Institution:** Chang'an University
+  - **Major:** Marketing
+  - **Period:** September 2012 - July 2016
+
+- **Master's Degree**
+  - **Institution:** Chang'an University
+  - **Major:** Mechanical Engineering
+  - **Period:** September 2023 - July 2024
+
+- **Doctorate**
+  - **Institution:** Chang'an University
+  - **Major:** Vehicle Engineering
+  - **Period:** September 2024 - Present
 
 
